@@ -13,13 +13,13 @@
 Backbone supplies structure to JavaScript-heavy applications by providing models key-value binding and custom events, collections with a rich API of enumerable functions, views with declarative event handling, and connects it all to your existing application over a RESTful JSON interface.
 
 For Docs, License, Tests, and pre-packed downloads, see:
-http://documentcloud.github.com/backbone/
+https://documentcloud.github.com/backbone/
 
 To suggest a feature, report a bug, or general discussion:
-http://github.com/documentcloud/backbone/issues/
+https://github.com/documentcloud/backbone/issues/
 
 All contributors are listed here:
-http://github.com/documentcloud/backbone/contributors
+https://github.com/documentcloud/backbone/contributors
 
 Special thanks to Robert Kieffer for the original philosophy behind Backbone. 
-http://github.com/broofa
+https://github.com/broofa
